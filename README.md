@@ -11,11 +11,6 @@ This project demonstrates core Java concepts such as **OOP (Object-Oriented Prog
 - [Project Structure](#-project-structure)
 - [How It Works](#-how-it-works)
 - [Technologies Used](#-technologies-used)
-- [Installation & Execution](#-installation--execution)
-- [Example Usage](#-example-usage)
-- [Code Overview](#-code-overview)
-- [Future Improvements](#-future-improvements)
-- [License](#-license)
 
 ---
 
@@ -67,11 +62,3 @@ Copy code
 - **java.time** (for `LocalDateTime`, `DateTimeFormatter`)
 
 ---
-
-##  Installation & Execution
-
-###  Prerequisites
-- Install [Java JDK 8 or above](https://www.oracle.com/java/technologies/javase-downloads.html)
-- Verify installation:
-  ```bash
-  java -version
